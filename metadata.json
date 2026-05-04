@@ -1,0 +1,6 @@
+{
+  "name": "Neon Turbo Racing",
+  "description": "A high-speed neon-themed endless racing game built with React and Canvas. Avoid obstacles, collect points, and survive as long as you can.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
